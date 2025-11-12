@@ -15,7 +15,7 @@ Welcome to my data analytics portfolio! This repository is where I compile and d
 - Portfolio Projects
 
   - Power BI
-    - [Sales Analysis](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#sales-analysis)
+    - [Adventure Works Sales Analysis](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#sales-analysis)
 
   - SQL
     - [COVID-19 Database Exploration](https://github.com/keandrejimeno/PortfolioProjects/blob/main/README.md#covid-19-database-exploration)
@@ -54,11 +54,11 @@ LinkedIn: [@keandrejimeno](https://www.linkedin.com/in/keandrejimeno/)
 [Back to top](#top)
 
 ## Power BI
-### Sales Analysis
+### Adventure Works Sales Analysis
 
 **Goal:** To present and report sales records and other related measures and provide insight on the company's performance.
 
-**Code:** [Sales Analysis](https://github.com/keandrejimeno/SalesAnalysis)
+**Repository:** [Adventure Works Sales Analysis](https://github.com/keandrejimeno/SalesAnalysis)
 
 **Description:** The database includes lists of sales records including sale and order information (order id, quantity, number of orders, product category, salesperson assigned, and location of resellers sold to). The project includes transforming the data, preparing measures and calculated columns, designing the model relationships, and generating interactive reports. The project then presents highlights and interpretations based on a fundamental understanding of business operations.
 
